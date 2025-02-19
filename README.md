@@ -8,7 +8,7 @@
 ## 💻 Skills
 
 - **Languages**: JavaScript, HTML, CSS ,Python
-- **Libraries/Frameworks**: React, Tailwind CSS ,Django
+- **Libraries/Frameworks**: React,Vue.js, Tailwind CSS ,Django
 
 
 ## 📫 How to reach me:
